@@ -1,0 +1,18 @@
+# COMMAND
+JIM_ACTION = 'action'
+JIM_TIME = 'time'
+JIM_RESPONSE = 'response'
+
+# ACTIONS
+JIM_PRESENCE = 'presence'
+
+# CODES
+JIM_CODE_OK = 200
+JIM_CODE_ACCEPTED = 202
+JIM_CODE_MSG_NOT_VALID = 400
+
+# OPTIONAL
+JIM_TYPE = 'type'
+JIM_USER = 'user'
+JIM_LOGIN = 'login'
+JIM_PASSWORD = 'password'
